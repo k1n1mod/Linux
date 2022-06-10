@@ -68,3 +68,11 @@ pwsh
 ```
 sudo apt-get remove powershell
 ```
+
+https://code.visualstudio.com/download
+su - 
+cd "/home/username/Downloads"
+ls -l
+dpkg -i filename
+rm filename
+ls -l
